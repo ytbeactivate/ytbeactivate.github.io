@@ -75,7 +75,7 @@
             position: relative;
             text-align: center;
             color: #fff;
-            background-image: url('image.jpg'); / Replace 'your-banner-image.jpg' with the actual path to your banner image /
+            background-image: url('youtube.jpg'); / Replace 'your-banner-image.jpg' with the actual path to your banner image /
             background-size: cover;
             background-position: center;
             height: 100vh; / Full height of the viewport /
