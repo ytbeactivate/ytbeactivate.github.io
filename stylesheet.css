@@ -110,10 +110,10 @@
         .cta-button {
             display: inline-block;
             padding: 10px 20px;
-            font-size: 1.2em;
+            font-size: 1.3em;
             text-decoration: none;
             background-color: blue; 
-            color: #fff;
+            color: black;
             border-radius: 5px;
           margin-top:20%;
         }
