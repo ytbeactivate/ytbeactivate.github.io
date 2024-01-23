@@ -10,7 +10,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-color: Black
   }
 
   nav ul {
@@ -27,7 +26,7 @@
 
   nav a {
     text-decoration: none;
-    color: white;
+    color: Black;
     font-weight: bold;
     font-size: 16px;
     transition: color 0.3s ease-in-out;
@@ -116,7 +115,7 @@
             background-color: White; 
             color: black;
             border-radius: 5px;
-          margin-top:35%;
+          margin-top:30%;
           font-weight:bold;
         }
         banner,
